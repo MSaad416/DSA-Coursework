@@ -1,3 +1,3 @@
 # DSA-Coursework
-Coursework completed by me for a Data Structres & Algorithms class.
+Coursework completed by me for a Data Structres & Algorithms class.\n
 Programs written in C.
