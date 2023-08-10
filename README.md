@@ -1,2 +1,2 @@
 # DSA-Coursework
-Completed Data Structures and Algorithms coursework.
+Coursework completed by me for a Data Structres & Algorithms class.
